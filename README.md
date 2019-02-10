@@ -31,21 +31,26 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. What is the DOM?
+The DOM is the 'Day Of the Month'; for instance, today is Monday. The calendar DOCUMENTation states that Saturday is a day OBJECT for the week MODEL; which itself is a component of the month Model. It provides an interface that allows users to view, interact with and change HTML elements. What's HTML? That's a story for another day.
 
 2. What is an event?
+An event is a day marked on the calendar documentation; it can be a celebration, a click, a scroll, keydown or up, any interaction a user might have with the DOM. It's an action with specific characteristics that can trigger other actions to happen.
 
 3. What is an event listener?
+An event listener is just that; it wait and listens for a specific event to happen in the DOM and then performs some specific task. For instance; I wait and listen for a 5 minute timer event before I grab a soda.
 
 4. Why would we convert a NodeList into an Array?
+A NodeList can perform some methods; like 'forEach'; but it's too lazy to do the more powerful ones; such as map and reduce. That's why we sometimes have to piggyback it on a real array that knows these advanced methods.
 
 5. What is a component?
+A component is like the red sauce on a burrito; you don't need to know what's in it, it just has to work. The red sauce generally requires a careful setup; but in the long run it saves time because it's reusable and can be added to all kinds of burritos with minimal preperation.
 
 ### Git Set up
 
 * [x] Fork the project into your GitHub user account
 * [x] Clone the forked project into a directory on your machine
-* [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
-* [ ] You are now ready to build this project with your preferred IDE
+* [x] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
+* [x] You are now ready to build this project with your preferred IDE
 
 ## Minimum Viable Product
 
